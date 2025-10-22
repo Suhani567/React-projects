@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  width: 50%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center
+}
+
+.Card{
+  border : 3px solid grey;
+  border-radius : 10px;
+  /* width: 100vh; */
+  /* height: 100px; */
+  
+ 
+}
+.Card img{
+  width: 50vh;
+  height: 50vh;
+}
